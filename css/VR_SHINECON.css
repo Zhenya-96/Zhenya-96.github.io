@@ -1,0 +1,37 @@
+header {
+	text-align: center;
+}
+.header_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}
+/*description*/
+.description {
+	text-align: center;
+}
+.description span {
+	color: red;
+}
+/*capabilities*/
+.capabilities {
+	text-align: center;
+}
+.capabil_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}
+/*buy*/
+.buy {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.buy_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}

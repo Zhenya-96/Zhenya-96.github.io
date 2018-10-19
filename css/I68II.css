@@ -1,0 +1,40 @@
+header {
+	text-align: center;
+}
+.header_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}
+/*description*/
+.description {
+	text-align: center;
+}
+/*characteristics*/
+.characteristics {
+	text-align: center;
+}
+.charact_header {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}
+.characteristics span {
+	color: red;
+}
+.characteristics h3 {
+	color: #0000FF;
+}
+/*footer*/
+.buy {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.buy_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+	color: #008080;
+}

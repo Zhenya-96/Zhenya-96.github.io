@@ -1,0 +1,73 @@
+header{
+	background-color: #1E90FF;
+	padding-top: 110px;
+}
+.header__item {
+	height: 350px;
+	text-align: center;
+	color: #8B0000;
+}
+/*consoles*/
+.consoles {
+	text-align: center;
+	height: auto;
+}
+.consoles span {
+	color: red;
+}
+.consoles_title{
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+/*glasses*/
+.glasses {
+	text-align: center;
+	height: auto;
+}
+.glasses_title {
+	background-color: #32CD32;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+/*transition*/
+.transition {
+	text-align: center;
+	height: auto;
+	border-top: 3px dotted red;
+	border-bottom: 3px dotted red;
+}
+/*consoles_2*/
+.consoles_2 {
+	text-align: center;
+	height: auto;
+}
+/*Job*/
+.Job {
+	text-align: center;
+	height: auto;
+	border-top: 3px dotted red;
+	border-bottom: 3px dotted red;
+}
+.Job span {
+	font-size: 100px;
+	color: #00FA9A;
+}
+.Job h3 {
+	font-weight: bold;
+}
+/*contacts*/
+.contacts {
+	text-align: center;
+	height: auto;
+}
+.contacts h3 {
+	color: #B22222;
+}
+/*footer*/
+footer {
+	text-align: center;
+	height: auto;
+	border-top: 3px dotted red;
+	background-color: #00FF7F;
+}
